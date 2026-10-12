@@ -36,6 +36,24 @@ OPL monitoring dashboard.
 
 </tr>
 </tbody>
+
+<tbody>
+<tr>
+
+<td colspan="2" width="100%" valign="top">
+
+<h3>Trading Analysis</h3>
+
+Market and trading analysis tooling.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
+</p>
+
+</td>
+
+</tr>
+</tbody>
 </table>
 
 ### ◫ Development Metrics
