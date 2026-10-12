@@ -12,9 +12,11 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: Gunawan1994
           MAX_LINES: 15
+          FILTER_EVENTS: "PushEvent,PullRequestEvent,IssuesEvent,IssueCommentEvent,ReleaseEvent"
