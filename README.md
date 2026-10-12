@@ -59,16 +59,7 @@ Market and trading analysis tooling.
 ### ◫ Development Metrics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Gunawan1994&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"
-    width="49%"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunawan1994&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
-    width="49%"
-    alt="Top languages"
-  />
+  <img src="./github-metrics.svg" width="100%" alt="GitHub metrics" />
 </p>
 
 ### ◈ Recent Activity
