@@ -20,25 +20,17 @@
 
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Gunawan1994">Project One</a></h3>
+<h3>GovTech Procurement</h3>
 
-Short description of your first project.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
-</p>
+Government procurement platform.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Gunawan1994">Project Two</a></h3>
+<h3>Dashboard OPL BRI</h3>
 
-Short description of your second project.
-
-<p>
-  <img src="https://img.shields.io/badge/Go-30363D?style=flat-square" alt="Go">
-</p>
+OPL monitoring dashboard.
 
 </td>
 
